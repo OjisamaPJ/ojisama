@@ -21,9 +21,7 @@ input[type="search"]{-webkit-appearance:textfield;-webkit-box-sizing:content-box
 input[type="search"]::-webkit-search-decoration{-webkit-appearance:none;}
 textarea{overflow:auto;vertical-align:top;}
 
-.catch-phrase{
-    margin-top:15px,0;
-}
+
 .alert{
     font-size:10px;
     color:purple;
@@ -145,7 +143,7 @@ div.article>h3{
 
 .catch{
     margin-top: 10px;
-    margin-left:300px;
+    margin-left:262px;
     font-weight:450;
 }
 
